@@ -10,6 +10,7 @@
 - The weather code is then matched to a 20x20 bmp image of the pattern to visualize the weather
 - The image, current time, temperature, and wind speed are all displayed on a 32.64 matrix controlled by an Adafruit library
 
+
 No API key is required as Open Meteo provides free access to their services without a login
 
 ## Usage
