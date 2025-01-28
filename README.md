@@ -14,4 +14,5 @@ No API key is required as Open Meteo provides free access to their services with
 
 ## Usage
 a. Copy the code onto a microcontroller connected to a 32x64 display and run it
+<br>
 b. Visit neon.hackclub.dev/editor and paste the code into the editor to see it run on your machine
